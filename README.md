@@ -32,4 +32,4 @@ To view the design, clone the repository and open the design files in your prefe
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/food-delivery-app-design.git
+   git clone https://github.com/farzansyed07/UI-UX-designs.git
