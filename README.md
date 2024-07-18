@@ -33,3 +33,13 @@ To view the design, clone the repository and open the design files in your prefe
 1. Clone the repository:
    ```bash
    git clone https://github.com/farzansyed07/UI-UX-designs.git
+
+## Contact
+For any questions or feedback, please contact:
+
+Name: SYED FARZAN  
+Email: [syedfarzan0@gmail.com](mailto:syedfarzan0@gmail.com)  
+GitHub: [https://github.com/farzansyed07](https://github.com/farzansyed07)
+
+Thank you for checking out the Food Delivery App Design repository! We hope you find it useful and inspiring.
+
